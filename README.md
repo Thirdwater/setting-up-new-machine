@@ -15,8 +15,15 @@ See for example: [DigitalOcean's tutorial on setting up ssh on debian](https://w
 
 ## Essentials
 ```bash
-apt-get install vim tmux git wget curl
+apt-get install tmux git wget curl
 ```
+
+### Vim
+```bash
+apt-get install vim
+```
+Then see for example: [Vundle](https://github.com/VundleVim/Vundle.vim#quick-start)  
+Then apply `.vimrc`
 
 ## Programming
 
