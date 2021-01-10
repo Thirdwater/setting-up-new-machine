@@ -39,6 +39,5 @@ apt-get install python3-pip libssl-dev libffi-dev python-dev
 
 ### Julia
 ```bash
-wget [download-link]
-tar zxvf [downloaded-file]  # in some directory, e.g. /opt/
+apt-get install julia
 ```
