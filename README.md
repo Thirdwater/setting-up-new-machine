@@ -39,5 +39,8 @@ apt-get install python3-pip libssl-dev libffi-dev python-dev
 
 ### Julia
 ```bash
-apt-get install julia
+wget [download-link]
+tar zxvf [downloaded-file]  # in some directory, e.g. /opt/
 ```
+
+As opposed to using `apt-get` which might be lagging behind.
