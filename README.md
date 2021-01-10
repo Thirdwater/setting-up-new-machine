@@ -15,10 +15,15 @@ See for example: [DigitalOcean's tutorial on setting up ssh on debian](https://w
 
 ## Essentials
 ```bash
-apt-get install vim tmux git build-essential wget curl
+apt-get install vim tmux git wget curl
 ```
 
 ## Programming
+
+### General
+```bash
+apt-get install build-essential virtualenv
+```
 
 ### Python
 ```bash
